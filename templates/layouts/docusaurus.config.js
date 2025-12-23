@@ -9,13 +9,23 @@ import { BASE } from './runtime.config.mjs';
 
 import navbarItems from './navbar-items.js';
 
+/**
+ * @param {string} v
+ */
+const normalizeBaseUrl = (v) => {
+  const s = String(v || '').trim();
+  const withLeading = s.startsWith('/') ? s : `/${s}`;
+  const withTrailing = withLeading.endsWith('/') ? withLeading : `${withLeading}/`;
+  return withTrailing.replace(/\/{2,}/g, '/');
+};
+
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const config = {
   title: 'Crydon',
   url: 'http://example.com',
-  baseUrl: BASE,
+  baseUrl: normalizeBaseUrl(BASE),
   trailingSlash: true,
   favicon: 'img/logo.png',
 
