@@ -1209,16 +1209,12 @@ html.dark,
     position: relative;
 }
 
-.home__main-logo,
-.home__main-logo-fill {
+.home__main-logo{
     position: absolute;
     top: -28px;
-    left: -61px;
+    left: calc(50% - 50vw); 
     max-width: 377px;
-}
-
-.home__main-logo-fill {
-    display: none;
+    z-index: -1;
 }
 
 .home__main-crydon {
@@ -1831,17 +1827,6 @@ html.dark,
     }
 }
 
-
-@media screen and (min-width: 1441px) {
-    .home__main-logo {
-        display: none;
-    }
-
-    .home__main-logo-fill {
-        display: block;
-        left: -10%;
-    }
-}
 
 .reveal {
     opacity: 1;
