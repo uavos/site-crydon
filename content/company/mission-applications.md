@@ -1,6 +1,8 @@
 ---
 title: Mission Applications
 order: 3
+displayed_sidebar: companySidebar
+hide_title: true
 ---
 
 # Mission Applications

@@ -1,6 +1,8 @@
 ---
 title: Security & Compliance
-order: 3
+order: 2
+displayed_sidebar: companySidebar
+hide_title: true
 ---
 
 # Security & Compliance

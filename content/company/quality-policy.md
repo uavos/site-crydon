@@ -1,6 +1,8 @@
 ---
 title: Quality Policy
 order: 1
+displayed_sidebar: companySidebar
+hide_title: true
 ---
 
 # Quality Policy

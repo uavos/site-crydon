@@ -1,0 +1,178 @@
+{
+  "name": "content",
+  "path": "C:\\OpenServer\\domains\\UAVOS GROUP\\site-builder\\site-builder\\content",
+  "object_type": "folder",
+  "children": [
+    {
+      "name": "index.mdx",
+      "path": "C:\\OpenServer\\domains\\UAVOS GROUP\\site-builder\\site-builder\\content\\index.mdx",
+      "object_type": "file",
+      "slug": "index",
+      "link": "/index",
+      "title": "Home",
+      "type": "page",
+      "hide_title": true,
+      "displayed_sidebar": null,
+      "hide_table_of_contents": true
+    },
+    {
+      "name": "products",
+      "path": "C:\\OpenServer\\domains\\UAVOS GROUP\\site-builder\\site-builder\\content\\products",
+      "object_type": "folder",
+      "children": [
+        {
+          "name": "index.mdx",
+          "path": "C:\\OpenServer\\domains\\UAVOS GROUP\\site-builder\\site-builder\\content\\products\\index.mdx",
+          "object_type": "file",
+          "slug": "index",
+          "link": "/products",
+          "title": "Products",
+          "type": "page"
+        }
+      ],
+      "type": "page"
+    },
+    {
+      "name": "company",
+      "path": "C:\\OpenServer\\domains\\UAVOS GROUP\\site-builder\\site-builder\\content\\company",
+      "object_type": "folder",
+      "children": [
+        {
+          "name": "quality-policy.md",
+          "path": "C:\\OpenServer\\domains\\UAVOS GROUP\\site-builder\\site-builder\\content\\company\\quality-policy.md",
+          "object_type": "file",
+          "slug": "quality-policy",
+          "link": "/company/quality-policy",
+          "title": "Quality Policy"
+        },
+        {
+          "name": "security-compliance.md",
+          "path": "C:\\OpenServer\\domains\\UAVOS GROUP\\site-builder\\site-builder\\content\\company\\security-compliance.md",
+          "object_type": "file",
+          "slug": "security-compliance",
+          "link": "/company/security-compliance",
+          "title": "Security & Compliance"
+        },
+        {
+          "name": "index.mdx",
+          "path": "C:\\OpenServer\\domains\\UAVOS GROUP\\site-builder\\site-builder\\content\\company\\index.mdx",
+          "object_type": "file",
+          "slug": "index",
+          "hide": true,
+          "link": "/company",
+          "title": "Company",
+          "type": "menu"
+        },
+        {
+          "name": "mission-applications.md",
+          "path": "C:\\OpenServer\\domains\\UAVOS GROUP\\site-builder\\site-builder\\content\\company\\mission-applications.md",
+          "object_type": "file",
+          "slug": "mission-applications",
+          "link": "/company/mission-applications",
+          "title": "Mission Applications"
+        }
+      ],
+      "type": "menu",
+      "hide": true
+    },
+    {
+      "name": "capabilities",
+      "path": "C:\\OpenServer\\domains\\UAVOS GROUP\\site-builder\\site-builder\\content\\capabilities",
+      "object_type": "folder",
+      "children": [
+        {
+          "name": "index.mdx",
+          "path": "C:\\OpenServer\\domains\\UAVOS GROUP\\site-builder\\site-builder\\content\\capabilities\\index.mdx",
+          "object_type": "file",
+          "slug": "index",
+          "link": "/capabilities",
+          "title": "Capabilities Overview",
+          "type": "page"
+        }
+      ],
+      "type": "page"
+    },
+    {
+      "name": "about",
+      "path": "C:\\OpenServer\\domains\\UAVOS GROUP\\site-builder\\site-builder\\content\\about",
+      "object_type": "folder",
+      "children": [
+        {
+          "name": "aboutus.mdx",
+          "path": "C:\\OpenServer\\domains\\UAVOS GROUP\\site-builder\\site-builder\\content\\about\\aboutus.mdx",
+          "object_type": "file",
+          "slug": "aboutus",
+          "link": "/about/aboutus",
+          "title": "About us"
+        },
+        {
+          "name": "contracting.mdx",
+          "path": "C:\\OpenServer\\domains\\UAVOS GROUP\\site-builder\\site-builder\\content\\about\\contracting.mdx",
+          "object_type": "file",
+          "slug": "contracting",
+          "link": "/about/contracting",
+          "title": "Contracting"
+        },
+        {
+          "name": "security.md",
+          "path": "C:\\OpenServer\\domains\\UAVOS GROUP\\site-builder\\site-builder\\content\\about\\security.md",
+          "object_type": "file",
+          "slug": "security",
+          "link": "/about/security",
+          "title": "Security & Compliance"
+        },
+        {
+          "name": "index.mdx",
+          "path": "C:\\OpenServer\\domains\\UAVOS GROUP\\site-builder\\site-builder\\content\\about\\index.mdx",
+          "object_type": "file",
+          "slug": "index",
+          "hide": true,
+          "link": "/about",
+          "title": "About us",
+          "type": "menu"
+        },
+        {
+          "name": "assets",
+          "path": "C:\\OpenServer\\domains\\UAVOS GROUP\\site-builder\\site-builder\\content\\about\\assets",
+          "object_type": "folder",
+          "children": [],
+          "__nextra_assets_only__skip_meta": true
+        }
+      ],
+      "type": "menu",
+      "hide": true
+    },
+    {
+      "name": "contact.mdx",
+      "path": "C:\\OpenServer\\domains\\UAVOS GROUP\\site-builder\\site-builder\\content\\contact.mdx",
+      "object_type": "file",
+      "slug": "contact",
+      "link": "/contact",
+      "title": "Contact us",
+      "type": "page"
+    },
+    {
+      "name": "templates",
+      "path": "C:\\OpenServer\\domains\\UAVOS GROUP\\site-builder\\site-builder\\content\\templates",
+      "object_type": "folder",
+      "children": [
+        {
+          "name": "css",
+          "path": "C:\\OpenServer\\domains\\UAVOS GROUP\\site-builder\\site-builder\\content\\templates\\css",
+          "object_type": "folder",
+          "children": [],
+          "__nextra_assets_only__skip_meta": true
+        },
+        {
+          "name": "layouts",
+          "path": "C:\\OpenServer\\domains\\UAVOS GROUP\\site-builder\\site-builder\\content\\templates\\layouts",
+          "object_type": "folder",
+          "children": [],
+          "__nextra_assets_only__skip_meta": true
+        }
+      ],
+      "__nextra_assets_only__skip_meta": true
+    }
+  ],
+  "type": "page"
+}
